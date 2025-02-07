@@ -6,7 +6,6 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 ## 🎓 Education
 🎓 **B.Tech in Information & Communication Technology**  
 📍 Pandit Deendayal Energy University (PDEU)  
-📊 CGPA: 8.75 (2022 – Present)
 
 ## 💻 Skills
 ### **Mobile Development**
@@ -14,7 +13,7 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 - Flutter (Dart), Google Maps API, Firebase
 
 ### **Backend & Databases**
-- Flask, PostgreSQL, SQLite, Firebase, MySQL, MongoDB
+- Flask, FastApi PostgreSQL, SQLite, Firebase, MySQL, MongoDB
 
 ### **DevOps & Cloud**
 - AWS (Lambda, EC2, S3), GCP, Azure, Docker, CI/CD
@@ -22,6 +21,12 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 
 ### **Web Development**
 - HTML5, CSS, JavaScript, React, Node JS
+
+💻 Notable Projects
+- JATAYU - Women Safety App : https://github.com/Devarsh-42/jatayu
+- SmartSend - AI Email Scheduler : https://github.com/Devarsh-42/SmartSend
+- MediSyncXperience - Smart Healthcare App using Java: https://github.com/Devarsh-42/MediSyncXperience01
+- 
 
 ## 📫 Connect with Me
 - 📧 Email: [devarshmehta.42@gmail.com](mailto:devarshmehta.42@gmail.com)
@@ -31,6 +36,8 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 ## 🖼️ Profile & Tech Stack
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarsh-42&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-42&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devarsh-42&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Devarsh-42&color=blueviolet)
 
 Let's build something awesome together! 🚀
 
