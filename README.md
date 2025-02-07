@@ -37,7 +37,6 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarsh-42&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devarsh-42&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Devarsh-42&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=Devarsh-42&color=blueviolet)
 
 Let's build something awesome together! 🚀
 
