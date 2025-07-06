@@ -31,7 +31,6 @@ I'm a passionate **Mobile Developer** with expertise in **Kotlin (JetpackCompose
 ## 📫 Connect with Me
 - 📧 Email: [devarshmehta.42@gmail.com](mailto:devarshmehta.42@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/devarsh-mehta-6670581b8/)
-- 🏆 [LeetCode](https://leetcode.com/u/Devarsh_42/)
 
 ## 🖼️ Profile & Tech Stack
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devarsh-42&show_icons=true&theme=tokyonight)
